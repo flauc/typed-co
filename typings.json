@@ -1,0 +1,6 @@
+{
+  "name": "co",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/tj/co",
+  "version": "4.6.0"
+}
