@@ -1,2 +1,7 @@
-# typed-co
-The type definition for https://github.com/tj/co
+#Typed Co
+
+The type definition for co.
+
+##License
+
+MIT
